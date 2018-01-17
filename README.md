@@ -6,7 +6,7 @@ This tool is used for overriding resources on published web sites with local one
 ## Installation
 
 ```
-npm install -h overproxy
+npm install -g overproxy
 ```
 
 ## Usage
