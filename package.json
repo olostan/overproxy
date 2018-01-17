@@ -1,6 +1,6 @@
 {
   "name": "overproxy",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Overriding proxy tool",
   "main": "bin/overproxy.js",
   "scripts": {
